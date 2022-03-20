@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FoodRecepies</string>
+    <string name="title_collected">Collected</string>
+    <string name="amt_collected">0</string>
+
+    <string name="title_yours">Yours</string>
+    <string name="amt_yours">0</string>
+</resources>
